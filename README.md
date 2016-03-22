@@ -17,4 +17,4 @@ Completed:
 
 Walkthrough Gif:
 
-![Video Walkthrough](https://github.com/jrshah/cli-utilities/blob/master/walkthrough.gif)
+![Video Walkthrough](https://github.com/jrshah/cli-utilities/blob/master/walkthrough1.gif)
